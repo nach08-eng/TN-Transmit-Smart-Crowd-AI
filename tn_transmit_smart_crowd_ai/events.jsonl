@@ -1,0 +1,16 @@
+{"id": "0f9b35a8", "timestamp": "2026-10-25T21:57:27+05:30", "type": "upload", "message": "Uploaded video: depositphotos_132068506-stock-video-lockport-ny-usa-oktober-20.mp4", "level": "info", "details": {"stored_as": "20261025_215727_354f26_depositphotos_132068506-stock-video-lockport-ny-usa-oktober-20.mp4"}}
+{"id": "98d37188", "timestamp": "2026-10-25T21:57:42+05:30", "type": "settings", "message": "Settings updated. Passenger limit: 40", "level": "info", "details": {}}
+{"id": "1150e183", "timestamp": "2026-10-25T21:58:25+05:30", "type": "crowd_test", "message": "Test overcrowding announcement for configured limit 40", "level": "warning", "details": {}}
+{"id": "93ad9ebc", "timestamp": "2026-10-25T21:58:36+05:30", "type": "door_obstruction_test", "message": "Simulated door obstruction warning", "level": "error", "details": {}}
+{"id": "ac078ef4", "timestamp": "2026-10-25T21:58:44+05:30", "type": "crowd_test", "message": "Test overcrowding announcement for configured limit 40", "level": "warning", "details": {}}
+{"id": "de19f3d7", "timestamp": "2026-10-25T21:59:05+05:30", "type": "door_obstruction_test", "message": "Simulated door obstruction warning", "level": "error", "details": {}}
+{"id": "b0894735", "timestamp": "2026-10-25T21:59:21+05:30", "type": "iot_test", "message": "IoT integration test requested; no physical door command sent.", "level": "info", "details": {"mode": "mock"}}
+{"id": "cc034089", "timestamp": "2026-10-25T22:04:19+05:30", "type": "upload", "message": "Uploaded video: depositphotos_132068506-stock-video-lockport-ny-usa-oktober-20.mp4", "level": "info", "details": {"stored_as": "20261025_220419_77d214_depositphotos_132068506-stock-video-lockport-ny-usa-oktober-20.mp4"}}
+{"id": "31ed8817", "timestamp": "2026-10-25T22:04:26+05:30", "type": "settings", "message": "Settings updated. Passenger limit: 45", "level": "info", "details": {}}
+{"id": "30a2fbc3", "timestamp": "2026-10-25T22:04:35+05:30", "type": "crowd_test", "message": "Test overcrowding announcement for configured limit 45", "level": "warning", "details": {}}
+{"id": "bb3fc028", "timestamp": "2026-10-25T22:04:46+05:30", "type": "door_obstruction_test", "message": "Simulated door obstruction warning", "level": "error", "details": {}}
+{"id": "0eaba7e0", "timestamp": "2026-10-25T22:04:50+05:30", "type": "iot_test", "message": "IoT integration test requested; no physical door command sent.", "level": "info", "details": {"mode": "mock"}}
+{"id": "b4e57d4d", "timestamp": "2026-10-25T22:04:53+05:30", "type": "iot_test", "message": "IoT integration test requested; no physical door command sent.", "level": "info", "details": {"mode": "mock"}}
+{"id": "29e3594d", "timestamp": "2026-10-25T22:24:11+05:30", "type": "upload", "message": "Uploaded video: 6229548-uhd_3840_2160_25fps.mp4", "level": "info", "details": {"stored_as": "20261025_222411_94b3b7_6229548-uhd_3840_2160_25fps.mp4"}}
+{"id": "2a01db63", "timestamp": "2026-10-25T22:25:00+05:30", "type": "upload", "message": "Uploaded video: 6229548-uhd_3840_2160_25fps.mp4", "level": "info", "details": {"stored_as": "20261025_222459_6e6df7_6229548-uhd_3840_2160_25fps.mp4"}}
+{"id": "a8d85ede", "timestamp": "2026-10-25T22:25:11+05:30", "type": "crowd_test", "message": "Test overcrowding announcement for configured limit 45", "level": "warning", "details": {}}
